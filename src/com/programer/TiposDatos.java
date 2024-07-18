@@ -24,5 +24,5 @@ public class TiposDatos {
 
     //3. Texto:
     char caracter ='a';
-    String cadenaDeTexto = "programer, developer Jean ";
+    String cadenaDeTexto = "programer, developer Jean  hello";
 }
